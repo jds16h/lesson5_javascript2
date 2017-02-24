@@ -1,4 +1,4 @@
-## Project Name:  Expense Calculator Application
+## Project Name:  Income Tax Calculator Application
 
 ### Course Title:
 LIS 2360:  Web Application Development
